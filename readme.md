@@ -14,3 +14,7 @@ Read [my blog post](https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1
 * `curl localhost:8080`
 * `curl localhost:8080/Jonny`
 * `curl localhost:8080/orders`
+
+### Test it
+
+* `go test -v`
