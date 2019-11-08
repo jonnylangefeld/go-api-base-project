@@ -5,7 +5,7 @@ Read [my blog post](https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1
 
 ### Run it
 
-* [Install go](https://golang.org/doc/install) (v1.11 or later)
+* [Install go](https://golang.org/doc/install) (v1.13 or later)
 * `go build`
 * `./my-go-api`
 

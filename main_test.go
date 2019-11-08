@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/httptest"
+	"github.com/kataras/iris/v12"
+	"github.com/kataras/iris/v12/httptest"
 	"github.com/ory/dockertest"
 	"github.com/ory/dockertest/docker"
 	"github.com/stretchr/testify/assert"
