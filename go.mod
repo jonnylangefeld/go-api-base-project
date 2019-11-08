@@ -14,7 +14,11 @@ require (
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
 	github.com/jinzhu/gorm v1.9.11
+	github.com/json-iterator/go v1.1.8 // indirect
+	github.com/juju/errors v0.0.0-20190930114154-d42613fe1ab9 // indirect
 	github.com/kataras/iris/v12 v12.0.1
+	github.com/klauspost/compress v1.9.1 // indirect
+	github.com/lib/pq v1.2.0 // indirect
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
@@ -26,4 +30,9 @@ require (
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0 // indirect
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
+	golang.org/x/crypto v0.0.0-20191107222254-f4817d981bb6 // indirect
+	golang.org/x/net v0.0.0-20191105084925-a882066a44e0 // indirect
+	golang.org/x/sys v0.0.0-20191105231009-c1f44814a5cd // indirect
+	golang.org/x/text v0.3.2 // indirect
+	gopkg.in/yaml.v2 v2.2.5 // indirect
 )
